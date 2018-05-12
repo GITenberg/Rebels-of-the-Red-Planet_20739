@@ -1,0 +1,40 @@
+_repo: Rebels-of-the-Red-Planet_20739
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fontenay, Charles L.
+    alias: Fontenay, Charles Louis
+    birthdate: 1917
+    deathdate: 2007
+    gutenberg_agent_id: '9500'
+    url: http://www.gutenberg.org/2009/agents/9500
+    wikipedia: http://en.wikipedia.org/wiki/Charles_L._Fontenay
+description: Dark Kensington had been dead for twenty-five years. It was a fact; everyone
+  knew it. Then suddenly he reappeared, youthful, brilliant, ready to take over the
+  Phoenix, the rebel group that worked to overthrow the tyranny that gripped the settlers
+  on Mars. The Phoenix had been destroyed not once, not twice, but three times! But
+  this time the resurrected Dark had new plans, plans which involved dangerous experiments
+  in mutation and psionics. And now the rebels realized they were in double jeopardy.
+  Not only from the government's desperate hatred of their movement, but also from
+  the growing possibility that the new breed of mutated monsters would get out of
+  hand and bring terrors never before known to man.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space colonies -- Fiction'
+- !lcc 'PS'
+title: Rebels of the Red Planet
+url: http://www.gutenberg.org/ebooks/20739
